@@ -14,8 +14,6 @@
 
 > "Learning by building, improving through practice, and using AI to solve real-world problems."
 
-## Hi there 👋
-
 <!--
 **konatesouleymane/konatesouleymane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
