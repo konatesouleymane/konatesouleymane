@@ -1,10 +1,10 @@
-# 👋 Welcome to Souleymane's GitHub!
+#  Welcome to Souleymane's GitHub!
 
 <div align="center">
 
-# Souleymane Konaté
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=150&section=header&text=Souleymane%20Konat%C3%A9&fontSize=38&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="Souleymane Konaté banner" />
 
-*AI & Data Science Student | Aspiring AI Engineer*
+**Aspiring MLOps Engineer | AI & Cybersecurity**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/konatesouleymane)
 
@@ -12,19 +12,8 @@
 
 ---
 
-> "Learning by building, improving through practice, and using AI to solve real-world problems."
+> "Building secure, reliable, and intelligent systems through AI and MLOps."
 
-<!--
-**konatesouleymane/konatesouleymane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
