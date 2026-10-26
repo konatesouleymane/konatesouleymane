@@ -1,3 +1,19 @@
+# 👋 Welcome to Souleymane's GitHub!
+
+<div align="center">
+
+# Souleymane Konaté
+
+*AI & Data Science Student | Aspiring AI Engineer*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/konatesouleymane)
+
+</div>
+
+---
+
+> "Learning by building, improving through practice, and using AI to solve real-world problems."
+
 ## Hi there 👋
 
 <!--
