@@ -1,4 +1,4 @@
-👋 Welcome to Souleymane's GitHub!
+Welcome to Souleymane's GitHub!
 
 <div align="center">
 
