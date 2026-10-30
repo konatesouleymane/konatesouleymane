@@ -1,4 +1,4 @@
-Welcome to Souleymane's GitHub!
+ Welcome to Souleymane's GitHub!
 
 <div align="center">
 
@@ -6,11 +6,15 @@ Welcome to Souleymane's GitHub!
 
 **Aspiring MLOps Engineer | AI & Cybersecurity**
 
-[LinkedIn](https://www.linkedin.com/in/konate-souleymane-a50179261/)
+<a href="https://github.com/konatesouleymane">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/konate-souleymane-a50179261/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
 ---
 
 > "Building secure, reliable, and intelligent systems through AI and MLOps."
-
